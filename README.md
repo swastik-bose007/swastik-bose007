@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Laravel, front-end development**
+- 💬 Ask me about **React.js, UI/UX, front-end development**
 
 - 📫 How to reach me **swastikbose98@gmail.com**
 
